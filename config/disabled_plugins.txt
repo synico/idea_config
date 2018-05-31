@@ -1,2 +1,3 @@
 CVS
 Subversion
+org.jetbrains.java.decompiler

@@ -1,15 +1,18 @@
 <application>
   <component name="PropertiesComponent">
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
     <property name="Default.savedEditorTheme" value="_@user_Default" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ExpandRunDashboardTypesPanel" value="false" />
-    <property name="SearchEveryWhereHistory" value="CFDA&#10;Dockerfile&#10;Hashset" />
+    <property name="SearchEveryWhereHistory" value="HashSet&#10;CFDA&#10;Dockerfile" />
+    <property name="SettingsSearchHistory" value="SDK" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
     <property name="create.project.preferred.importer" value="Maven" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/scm/hc-apm&#10;C:/Users/212706300/scm/hc-apm/hc-apm-shared&#10;C:/Users/212706300/scm/hc-apm/hc-apm-cboard&#10;C:/Users/212706300/opt/java/8.0&#10;C:/Users/212706300/opt/mvn/3.5.0/conf/settings.xml&#10;C:/Users/212706300/opt/mvn/3.5.0&#10;C:/Users/212706300/opt/git/2.17/bin/git.exe&#10;C:/Users/212706300/scm/hc-apm/hc-apm-masterData-service" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/opt/mvn/3.5.0/conf/settings_china.xml&#10;C:/Users/212706300/opt/mvn/3.5.0&#10;C:/Users/212706300/scm/hc-apm&#10;C:/Users/212706300/opt/mvn/3.5.0/conf/settings.xml&#10;C:/Users/212706300/opt/java/8.0&#10;C:/Users/212706300/scm/hc-apm/hc-apm-shared&#10;C:/Users/212706300/scm/hc-apm/hc-apm-cboard&#10;C:/Users/212706300/opt/git/2.17/bin/git.exe&#10;C:/Users/212706300/scm/hc-apm/hc-apm-masterData-service" />
     <property name="file.gist.reindex.count" value="692" />
     <property name="installed.kotlin.plugin.version" value="1.2.31-release-IJ2018.1-1" />
-    <property name="last.imported.location" value="$USER_HOME$/scm/hc-apm/hc-apm-shared" />
+    <property name="last.imported.location" value="$USER_HOME$/scm/hc-apm" />
     <property name="lastTip" value="2" />
-    <property name="search.everywhere.max.popup.width" value="640" />
   </component>
 </application>

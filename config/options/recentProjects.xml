@@ -20,8 +20,8 @@
               <option name="build" value="IC-181.5087.20" />
               <option name="productionCode" value="IC" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1527748891638" />
-              <option name="buildTimestamp" value="1526508296726" />
+              <option name="projectOpenTimestamp" value="1527757988456" />
+              <option name="buildTimestamp" value="1526508271530" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -60,6 +60,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="$USER_HOME$/scm/hc-apm" />
+    <option name="lastProjectLocation" value="$USER_HOME$/scm" />
   </component>
 </application>

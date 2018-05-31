@@ -1,14 +1,17 @@
 <application>
   <component name="DimensionService">
-    <location key="FileChooserDialogImpl.0.0.1366.768" x="812" y="79" />
-    <location key="WELCOME_SCREEN.0.0.1366.768" x="589" y="255" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="539" y="90" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="685" y="333" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="370" y="181" />
     <location key="SettingsEditor.0.0.1366.768" x="34" y="3" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="137" y="0" />
     <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1366.768" x="263" y="13" />
     <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1366.768" x="532" y="248" />
-    <location key="ProcessPopupWindow.0.0.1366.768" x="791" y="537" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="858" y="515" />
     <location key="NewModule_or_Project.wizard.0.0.1366.768" x="389" y="0" />
+    <location key="#Notifications.0.0.1366.768" x="432" y="86" />
+    <location key="#Maven_environment.0.0.1366.768" x="540" y="248" />
+    <location key="#Project_Structure.0.0.1366.768" x="163" y="0" />
     <size key="SettingsEditor.0.0.1366.768" width="1046" height="725" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" width="1092" height="728" />
     <size key="ProcessPopupWindow.0.0.1366.768" width="400" height="197" />
